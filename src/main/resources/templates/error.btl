@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title>${status}</title>
+	</head>
+	<body>
+	    <h1 style="color:red;">小子，你出错了！</h1>
+		<h2>status:${status}</h2>
+		<h2>message:${msg}</h2>
+		<h2>path:${data}</h2>
+	</body>
+</html>
